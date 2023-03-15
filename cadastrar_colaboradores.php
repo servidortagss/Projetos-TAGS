@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <form method="post" action="confirmar_cadastro_colaboradores">
+    <form method="post" action="mais_informacoes_colaboradores">
         <h2 class="my-3">Cadastrar Colaborador</h2>
         <div class="row">
             <div class="col-md-12">
