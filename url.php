@@ -64,6 +64,10 @@ if (!empty($_GET['url'])) {
             include('cadastrar_colaboradores.php');
             break;
 
+        case 'mais_informacoes_colaboradores':
+            include('mais_informacoes_colaboradores.php');
+            break;
+
         case 'listar_colaboradores':
             $metodo = $url[1];
             $id = $url[2];
